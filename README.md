@@ -33,7 +33,7 @@ cd app-review-sentiment
 
 python -m venv venv
 venv\Scripts\activate     # On Windows
-# OR
+OR
 source venv/bin/activate  # On macOS/Linux
 
 ### 3. Install Dependencies
