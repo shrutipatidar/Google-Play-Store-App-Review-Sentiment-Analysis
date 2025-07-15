@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+textblob
+vaderSentiment
+wordcloud
+streamlit
+google-play-scraper
